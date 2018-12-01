@@ -7,3 +7,4 @@ This repository contains assignments and prototypes created following the course
 ## Assignments
 
 -  [Assignment 1](./assignment-1)
+-  [Assignment 2](./assignment-2)
