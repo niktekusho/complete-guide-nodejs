@@ -2,7 +2,6 @@
   "name": "3-37",
   "version": "1.0.0",
   "description": "",
-  "main": "routes.js",
   "private": true,
   "scripts": {
     "start": "node server.js"

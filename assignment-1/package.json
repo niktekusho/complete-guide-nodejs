@@ -2,7 +2,6 @@
   "name": "assignment-1",
   "version": "1.0.0",
   "description": "",
-  "main": "routes.js",
   "private": true,
   "scripts": {
     "start": "node server.js"
