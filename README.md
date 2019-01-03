@@ -9,3 +9,4 @@ This repository contains assignments and prototypes created following the course
 -  [Assignment 1](./assignments/assignment-1)
 -  [Assignment 2](./assignments/assignment-2)
 -  [Assignment 3](./assignments/assignment-3)
+-  [Assignment 4](./assignments/assignment-4)
