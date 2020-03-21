@@ -59,3 +59,8 @@ typings/
 
 # next.js build output
 .next
+
+# Lock files underneath the root dir
+/**/yarn.lock
+/**/package-lock.json
+!/package-lock.json
