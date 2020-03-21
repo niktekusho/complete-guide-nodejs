@@ -1,0 +1,36 @@
+{
+  "name": "complete-guide-nodejs",
+  "version": "0.0.0",
+  "description": "Root package.json file with dev and common dependencies.",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niktekusho/complete-guide-nodejs.git"
+  },
+  "author": "Nicola Dal Maso <nicola.dalmaso@outlook.com> (https://github.com/niktekusho)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/niktekusho/complete-guide-nodejs/issues"
+  },
+  "homepage": "https://github.com/niktekusho/complete-guide-nodejs#readme",
+  "devDependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^3.0.1",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.1.0",
+    "lerna": "^3.20.2",
+    "nodemon": "^2.0.2",
+    "pug": "^2.0.3"
+  },
+  "dependencies": {
+    "3-37": "file:modules\\3-37",
+    "3-from-25-to-33": "file:modules\\3-from-25-to-33",
+    "assignment-1": "file:assignments\\assignment-1",
+    "assignment-2": "file:assignments\\assignment-2",
+    "assignment-3": "file:assignments\\assignment-3",
+    "assignment-4": "file:assignments\\assignment-4",
+    "module-5": "file:modules\\module-5",
+    "module-6": "file:modules\\module-6",
+    "module-7": "file:modules\\module-7"
+  }
+}
