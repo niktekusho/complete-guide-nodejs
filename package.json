@@ -20,7 +20,7 @@
     "express-handlebars": "^3.1.0",
     "lerna": "^3.20.2",
     "nodemon": "^2.0.2",
-    "pug": "^2.0.3"
+    "pug": "^3.0.1"
   },
   "dependencies": {
     "3-37": "file:modules\\3-37",
